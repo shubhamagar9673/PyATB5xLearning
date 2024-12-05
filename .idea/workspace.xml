@@ -4,27 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c42759a-f66c-4905-a40f-99db91d0971f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/PyATB5xLearning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab001_Python_HelloWorld.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab002_Python_Basics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab003_Python_Basics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_Identifiers_Variables/LAb005_Variables_Types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_Identifiers_Variables/Lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_Identifiers_Variables/Lab006_Variable_Identifier_Rules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_Identifiers_Variables/Lab007_Dynamically_Typed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_Identifiers_Variables/Lab008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_Identifiers_Variables/Lab009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_Identifiers_Variables/Lab010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_Identifiers_Variables/Lab011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_Identifiers_Variables/Lab012_Math.py" afterDir="false" />
+    <list default="true" id="8c42759a-f66c-4905-a40f-99db91d0971f" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/LAb018_Sum_of_two_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab013_Literals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab016_BuilInFunctions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab017_UserInput.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,18 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "shubhamagar9673"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;shubhamagar9673&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/shubhamagar9673/PyATB5xLearning.git",
-    "accountId": "c009335d-9fd2-4254-a0a6-2e93c0de3753"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/shubhamagar9673/PyATB5xLearning.git&quot;,
+    &quot;accountId&quot;: &quot;c009335d-9fd2-4254-a0a6-2e93c0de3753&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -66,6 +53,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.LAb018_Sum_of_two_numbers.executor": "Run",
     "Python.Lab001_Python_HelloWorld.executor": "Run",
     "Python.Lab002_Python_Basics.executor": "Run",
     "Python.Lab003_Python_Basics.executor": "Run",
@@ -75,6 +63,11 @@
     "Python.Lab010.executor": "Run",
     "Python.Lab011.executor": "Run",
     "Python.Lab012_Math.executor": "Run",
+    "Python.Lab013_Literals.executor": "Run",
+    "Python.Lab014.executor": "Run",
+    "Python.Lab015.executor": "Run",
+    "Python.Lab016_BuilInFunctions.executor": "Run",
+    "Python.Lab017_UserInput.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
@@ -147,108 +140,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Docutils task">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Sphinx task">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Autodetect">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Lab003_Python_Basics" />
@@ -273,6 +164,19 @@
       <option name="presentableId" value="Default" />
       <updated>1733297972442</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1733306191206</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733306191206</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
