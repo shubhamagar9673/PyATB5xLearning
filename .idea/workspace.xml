@@ -4,14 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c42759a-f66c-4905-a40f-99db91d0971f" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/LAb018_Sum_of_two_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab013_Literals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab016_BuilInFunctions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab017_UserInput.py" afterDir="false" />
+    <list default="true" id="8c42759a-f66c-4905-a40f-99db91d0971f" name="Changes" comment="(9th Nov)">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab019_String_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab021_String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab022_Literal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab023_Escape_Char.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab024_Escape_sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab025_Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab026_Task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab_027.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab_028_ArithmaticOperators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab_029_OtherOperators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab_030_PowerOperator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab_031_Operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab_032_CompareOperator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab_033_NotOperator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab_034_Gates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab_035_InterviewQuestions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab_036_InterviewQuestions2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab_037_TernaryOperator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab_038_TernaryOperator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab_039_Task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PyATB5xLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyATB6xLearning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/LAb018_Sum_of_two_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/LAb018_Sum_of_two_numbers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +87,26 @@
     "Python.Lab015.executor": "Run",
     "Python.Lab016_BuilInFunctions.executor": "Run",
     "Python.Lab017_UserInput.executor": "Run",
+    "Python.Lab019_String_Functions.executor": "Run",
+    "Python.Lab020.executor": "Run",
+    "Python.Lab021_String.executor": "Run",
+    "Python.Lab023_Escape_Char.executor": "Run",
+    "Python.Lab024_Escape_sequence.executor": "Run",
+    "Python.Lab025_Task1.executor": "Run",
+    "Python.Lab026_Task1.executor": "Run",
+    "Python.Lab026_Task2.executor": "Run",
+    "Python.Lab_027.executor": "Run",
+    "Python.Lab_028_ArithmaticOperators.executor": "Run",
+    "Python.Lab_029_OtherOperators.executor": "Run",
+    "Python.Lab_030_PowerOperator.executor": "Run",
+    "Python.Lab_032_CompareOperator.executor": "Run",
+    "Python.Lab_033_NotOperator.executor": "Run",
+    "Python.Lab_034_Gates.executor": "Run",
+    "Python.Lab_035_InterviewQuestions.executor": "Run",
+    "Python.Lab_036_InterviewQuestions2.executor": "Run",
+    "Python.Lab_037_TernaryOperator.executor": "Run",
+    "Python.Lab_038_TernaryOperator.executor": "Run",
+    "Python.Lab_039_Task.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
@@ -75,7 +114,7 @@
 }]]></component>
   <component name="RunManager">
     <configuration name="Lab001_Python_HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
+      <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,7 +136,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Lab002_Python_Basics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
+      <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,7 +158,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Lab003_Python_Basics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
+      <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,9 +181,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab001_Python_HelloWorld" />
         <item itemvalue="Python.Lab003_Python_Basics" />
         <item itemvalue="Python.Lab002_Python_Basics" />
-        <item itemvalue="Python.Lab001_Python_HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -172,11 +211,20 @@
       <option name="project" value="LOCAL" />
       <updated>1733306191206</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="(9th Nov)">
+      <option name="closed" value="true" />
+      <created>1733383866857</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733383866857</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="(9th Nov)" />
+    <option name="LAST_COMMIT_MESSAGE" value="(9th Nov)" />
   </component>
 </project>
