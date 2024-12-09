@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c42759a-f66c-4905-a40f-99db91d0971f" name="Changes" comment="(9th Nov)">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab019_String_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab021_String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab022_Literal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab023_Escape_Char.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab024_Escape_sequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab025_Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab026_Task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab_027.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab_028_ArithmaticOperators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab_029_OtherOperators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab_030_PowerOperator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab_031_Operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab_032_CompareOperator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab_033_NotOperator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab_034_Gates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab_035_InterviewQuestions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab_036_InterviewQuestions2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab_037_TernaryOperator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab_038_TernaryOperator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab_039_Task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PyATB5xLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyATB6xLearning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/LAb018_Sum_of_two_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/LAb018_Sum_of_two_numbers.py" afterDir="false" />
-    </list>
+    <list default="true" id="8c42759a-f66c-4905-a40f-99db91d0971f" name="Changes" comment="(12th Nov)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,6 +80,9 @@
     "Python.Lab_037_TernaryOperator.executor": "Run",
     "Python.Lab_038_TernaryOperator.executor": "Run",
     "Python.Lab_039_Task.executor": "Run",
+    "Python.Lab_040_Task1.executor": "Run",
+    "Python.Lab_041_Task2.executor": "Run",
+    "Python.Lab_042_Task3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
@@ -219,12 +195,21 @@
       <option name="project" value="LOCAL" />
       <updated>1733383866857</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="(12th Nov)">
+      <option name="closed" value="true" />
+      <created>1733740756211</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733740756211</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="(9th Nov)" />
-    <option name="LAST_COMMIT_MESSAGE" value="(9th Nov)" />
+    <MESSAGE value="(12th Nov)" />
+    <option name="LAST_COMMIT_MESSAGE" value="(12th Nov)" />
   </component>
 </project>
