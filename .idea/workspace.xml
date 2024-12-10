@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c42759a-f66c-4905-a40f-99db91d0971f" name="Changes" comment="(12th Nov)" />
+    <list default="true" id="8c42759a-f66c-4905-a40f-99db91d0971f" name="Changes" comment="(12th Nov)">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Loops/Lab-047_GreatCalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Loops/Lab_043.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Loops/Lab_044.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Loops/Lab_045.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Loops/Lab_046_IF_ELSE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Loops/Lab_048_Triangle_Classifier_Task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +54,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.LAb018_Sum_of_two_numbers.executor": "Run",
+    "Python.Lab-047_GreatCalculator.executor": "Run",
     "Python.Lab001_Python_HelloWorld.executor": "Run",
     "Python.Lab002_Python_Basics.executor": "Run",
     "Python.Lab003_Python_Basics.executor": "Run",
@@ -83,6 +92,11 @@
     "Python.Lab_040_Task1.executor": "Run",
     "Python.Lab_041_Task2.executor": "Run",
     "Python.Lab_042_Task3.executor": "Run",
+    "Python.Lab_043.executor": "Run",
+    "Python.Lab_044.executor": "Run",
+    "Python.Lab_045.executor": "Run",
+    "Python.Lab_046_IF_ELSE.executor": "Run",
+    "Python.Lab_048_Triangle_Classifier_Task.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
@@ -321,7 +335,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733741761122</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="(12th Nov)">
+      <option name="closed" value="true" />
+      <created>1733743508397</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1733743508397</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
