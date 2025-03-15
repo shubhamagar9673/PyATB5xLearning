@@ -1,6 +1,9 @@
+from collections import Counter
+
 for i in range(101): # value will go from 0 to 100
     if i%2 ==0:
         print(i)
+
 
         """
         |i| condition | o/p
