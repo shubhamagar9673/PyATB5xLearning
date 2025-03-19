@@ -5,27 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c42759a-f66c-4905-a40f-99db91d0971f" name="Changes" comment="(14th Nov Files)">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions1/Lab-069_FunctionTypes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions1/Lab_062_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions1/Lab_063_BuiltInFunctions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions1/Lab_064.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions1/Lab_066_FunctionTypes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions1/Lab_067_Function_Type.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions1/Lab_068_Functions_Input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions1/Lab_070_Questions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions1/Lab_071_Functions_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions1/Lab_072_args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions1/Lab_073_realExampleOf_args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions1/Lab_O65_Pass.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PyATB5xLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyATB5xLearning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scope/Lab_075.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scope/Lab_076.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scope/Lab_077_LocalVariableConcept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scope/Lab_078_Inner_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scope/Lab_079_Decoretors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scope/Lab_080_Decoratorss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scope/Lab_081_WithoutDecorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scope/Lab_082_realEXDecorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scope/Lab_083.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scope/Lab_084_TypeConversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_sets/LAb_085Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_sets/LAb_097_Sets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_sets/Lab_0100SetsP4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_sets/Lab_086_lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_sets/Lab_087_MultipleArguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_sets/Lab_088_ThreeArguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_sets/Lab_089_MultipleStatements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_sets/Lab_090_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_sets/Lab_091_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_sets/Lab_092List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_sets/Lab_093_POPFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_sets/Lab_094_Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_sets/Lab_095Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_sets/Lab_096_Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_sets/Lab_098_SET_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_sets/Lab_099_SETS_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab_101_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab_102_dict_p2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab_103_MultipleDictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab_104_dictP4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab_105_Concepts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab_106_frequency_of_char.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab_107.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab_108_dictInterviewQuestion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab_109InterviewQuestions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab_110_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab_111Duplicatekeys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab_112.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_Identifiers_Variables/LAb005_Variables_Types.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_Identifiers_Variables/LAb005_Variables_Types.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_Identifiers_Variables/Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_Identifiers_Variables/Lab004.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_Identifiers_Variables/Lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_Identifiers_Variables/Lab010.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab_039_Task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab_039_Task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_16112024_Loops2/Lab_058.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops2/Lab_058.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_16112024_Loops2/Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops2/Lab_061_Task1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +90,8 @@
   "keyToString": {
     "Python.LAb005_Variables_Types.executor": "Run",
     "Python.LAb018_Sum_of_two_numbers.executor": "Run",
+    "Python.LAb_085Lambda.executor": "Run",
+    "Python.LAb_097_Sets.executor": "Run",
     "Python.Lab-047_GreatCalculator.executor": "Run",
     "Python.Lab-069_FunctionTypes.executor": "Run",
     "Python.Lab001_Python_HelloWorld.executor": "Run",
@@ -99,6 +119,7 @@
     "Python.Lab025_Task1.executor": "Run",
     "Python.Lab026_Task1.executor": "Run",
     "Python.Lab026_Task2.executor": "Run",
+    "Python.Lab_0100SetsP4.executor": "Run",
     "Python.Lab_027.executor": "Run",
     "Python.Lab_028_ArithmaticOperators.executor": "Run",
     "Python.Lab_029_OtherOperators.executor": "Run",
@@ -142,6 +163,38 @@
     "Python.Lab_071_Functions_IQ.executor": "Run",
     "Python.Lab_072_args.executor": "Run",
     "Python.Lab_073_realExampleOf_args.executor": "Run",
+    "Python.Lab_076.executor": "Run",
+    "Python.Lab_077_LocalVariableConcept.executor": "Run",
+    "Python.Lab_078_Inner_Functions.executor": "Run",
+    "Python.Lab_079_Decoretors.executor": "Run",
+    "Python.Lab_080_Decoratorss.executor": "Run",
+    "Python.Lab_081_WithoutDecorators.executor": "Run",
+    "Python.Lab_082_realEXDecorator.executor": "Run",
+    "Python.Lab_084_TypeConversion.executor": "Run",
+    "Python.Lab_086_lambda.executor": "Run",
+    "Python.Lab_087_MultipleArguments.executor": "Run",
+    "Python.Lab_088_ThreeArguments.executor": "Run",
+    "Python.Lab_089_MultipleStatements.executor": "Run",
+    "Python.Lab_090_Lambda.executor": "Run",
+    "Python.Lab_091_List.executor": "Run",
+    "Python.Lab_092List.executor": "Run",
+    "Python.Lab_093_POPFunction.executor": "Run",
+    "Python.Lab_094_Tuple.executor": "Run",
+    "Python.Lab_095Tuple.executor": "Run",
+    "Python.Lab_096_Tuple.executor": "Run",
+    "Python.Lab_098_SET_P2.executor": "Run",
+    "Python.Lab_099_SETS_P3.executor": "Run",
+    "Python.Lab_101_Dict.executor": "Run",
+    "Python.Lab_102_dict_p2.executor": "Run",
+    "Python.Lab_103_MultipleDictionary.executor": "Run",
+    "Python.Lab_104_dictP4.executor": "Run",
+    "Python.Lab_105_Concepts.executor": "Run",
+    "Python.Lab_106_frequency_of_char.executor": "Run",
+    "Python.Lab_107.executor": "Run",
+    "Python.Lab_108_dictInterviewQuestion.executor": "Run",
+    "Python.Lab_109InterviewQuestions.executor": "Run",
+    "Python.Lab_110_dict.executor": "Run",
+    "Python.Lab_112.executor": "Run",
     "Python.Lab_O65_Pass.executor": "Run",
     "Python.Task1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -319,7 +372,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733814628364</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="(14th Nov Files)">
+      <option name="closed" value="true" />
+      <created>1742049892109</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1742049892109</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
